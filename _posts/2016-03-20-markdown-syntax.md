@@ -6,9 +6,6 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 tag:
 - markdown 
 - syntax
-- sample
-- test
-- jekyll
 comments: true
 ---
 
