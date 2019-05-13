@@ -1,7 +1,7 @@
 # Site
 title:              Ultraman95
 bio:                '地球，毕竟是我的故乡，所以我要用眼去看，用手去抚摸'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "FinTech Blog"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         Ultraman95
+github-url:         username
 
 
 # Gems
